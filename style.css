@@ -1,0 +1,26 @@
+h1{ text-align: center; }
+a p:hover{ 
+ background-color: rgb(253, 252, 252);
+ transform: scale(1.2); 
+ transform: rotate3d(45deg);
+}
+body{
+    text-align: center;
+}
+body{
+    background-color: rgb(0, 0, 0);
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSepDcaRFoR7ukdvfANw58JzNYMpMdGE904XgvkwSDuJQ&s=10 ");
+    background-size: 50%;
+}
+a p{ 
+ background-color: rgb(7, 84, 226); 
+ padding: 15px 0; 
+ width: 20%; 
+ color: rgb(0, 0, 0);
+ font-weight: bold; 
+ border-radius: 50px; 
+ text-align: center;
+ transition: 1s all;
+ cursor: pointer;
+ margin:20px auto;
+ }
